@@ -1,0 +1,7 @@
+Metric,Value
+accuracy,25.0
+precision,12.5
+recall,25.0
+f1_score,16.67
+training_time_seconds,1.678112
+average_prediction_time_seconds,0.000117

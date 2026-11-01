@@ -1,0 +1,12 @@
+VISIONMATCH AI - CLASSIFICATION REPORT
+
+              precision    recall  f1-score   support
+
+        cars       0.00      0.00      0.00         1
+        cats       0.00      0.00      0.00         1
+        dogs       0.50      1.00      0.67         1
+     flowers       0.00      0.00      0.00         1
+
+    accuracy                           0.25         4
+   macro avg       0.12      0.25      0.17         4
+weighted avg       0.12      0.25      0.17         4
